@@ -102,5 +102,5 @@ CNNs significantly outperform ML by learning spatial patterns
 
 Data augmentation improves robustness and reduces overfitting
 
-✍️ Author: [Your Name]
+✍️ Author: [kashif ur rahman]
 📚 Course: Machine Learning and Deep Learning
